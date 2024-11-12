@@ -1,4 +1,4 @@
-﻿# RebellionTechTest
+﻿# Rebellion Tech Test
 
 #### Install
 `npm run install` to install dependencies
